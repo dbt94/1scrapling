@@ -85,6 +85,16 @@ MySpider().start()
 <table>
   <tr>
     <td width="200">
+      <a href="https://go.nodemaven.com/scraplingjuly" target="_blank" title="Proxies with the Highest IP Scores">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/NodeMaven.jpg" width="240" height="100">
+      </a>
+    </td>
+    <td>
+    <a href="https://go.nodemaven.com/scraplingjuly" target="_blank">NodeMaven</a> - proveedor de proxies confiable con la mayor calidad de IP del mercado. Usa el código promocional SCRAPLING35 para obtener un 35% de descuento en proxies.
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
       <a href="https://proxidize.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=scrapling&utm_content=d4vinci" target="_blank" title="Clean Proxies with No Nonsense.">
         <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/proxidize.png">
       </a>
@@ -94,11 +104,11 @@ MySpider().start()
   </tr>
   <tr>
     <td width="200">
-      <a href="https://coldproxy.com/" target="_blank" title="Residential, IPv6 & Datacenter Proxies for Web Scraping">
+      <a href="https://coldproxy.com/?utm_source=scrapling&utm_medium=github&utm_campaign=coldproxy&utm_content=platinum_sponsor" target="_blank" title="Residential, IPv6 & Datacenter Proxies for Web Scraping">
         <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/coldproxy.png">
       </a>
     </td>
-    <td> <a href="https://coldproxy.com/" target="_blank"><b>ColdProxy</b></a> proporciona proxies residenciales y de centros de datos para web scraping estable, recopilación de datos públicos y pruebas con segmentación geográfica en más de 195 países.
+    <td> <a href="https://coldproxy.com/?utm_source=scrapling&utm_medium=github&utm_campaign=coldproxy&utm_content=platinum_sponsor" target="_blank"><b>ColdProxy</b></a> proporciona proxies residenciales y de centros de datos para web scraping estable, recopilación de datos públicos y pruebas con segmentación geográfica en más de 195 países.
     </td>
   </tr>
   <tr>
@@ -110,18 +120,6 @@ MySpider().start()
     <td> Scrapling maneja Cloudflare Turnstile. Para protección de nivel empresarial, <a href="https://hypersolutions.co?utm_source=github&utm_medium=readme&utm_campaign=scrapling">
         <b>Hyper Solutions</b>
       </a> proporciona endpoints API que generan tokens antibot válidos para <b>Akamai</b>, <b>DataDome</b>, <b>Kasada</b> e <b>Incapsula</b>. Simples llamadas API, sin automatización de navegador. </td>
-  </tr>
-  <tr>
-    <td width="200">
-      <a href="https://birdproxies.com/t/scrapling" target="_blank" title="At Bird Proxies, we eliminate your pains such as banned IPs, geo restriction, and high costs so you can focus on your work.">
-        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/BirdProxies.jpg">
-      </a>
-    </td>
-    <td>Oye, creamos <a href="https://birdproxies.com/t/scrapling">
-        <b>BirdProxies</b>
-      </a> porque los proxies no deberían ser complicados ni caros. <br /> Proxies residenciales e ISP rápidos en más de 195 ubicaciones, precios justos y soporte real. <br />
-      <b>¡Prueba nuestro juego FlappyBird en la página de inicio para obtener datos gratis!</b>
-    </td>
   </tr>
   <tr>
     <td width="200">
@@ -177,26 +175,6 @@ MySpider().start()
     <a href="https://www.swiftproxy.net/?ref=D4Vinci" target="_blank">Swiftproxy</a> ofrece proxies residenciales escalables con más de 80 millones de IPs en más de 195 países, brindando conexiones rápidas y fiables, rotación automática y un sólido rendimiento anti-bloqueo. Prueba gratuita disponible.
     </td>
   </tr>
-  <tr>
-    <td width="200">
-      <a href="https://9proxy.com/pricing?tab=traffic&utm_source=Github&utm_campaign=D4vinci" target="_blank" title="Top-Tier Residential Proxy Solution for the Highest Success Rate">
-        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/9proxy.jpg">
-      </a>
-    </td>
-    <td>
-    <a href="https://9proxy.com/pricing?tab=traffic&utm_source=Github&utm_campaign=D4vinci" target="_blank">9Proxy</a> ofrece proxies residenciales desde solo $0,018/IP o $0,68/GB. Más de 20 millones de IPs en más de 90 países. Sesiones fijas o rotativas, gestionadas desde la aplicación de escritorio o móvil.
-    </td>
-  </tr>
-  <tr>
-    <td width="200">
-      <a href="https://go.nodemaven.com/scraplingjune" target="_blank" title="Proxies with the Highest IP Scores">
-        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/NodeMaven.svg" width="240" height="100">
-      </a>
-    </td>
-    <td>
-    <a href="https://go.nodemaven.com/scraplingjune" target="_blank">NodeMaven</a> - proveedor de proxies confiable con la mayor calidad de IP del mercado. Usa el código promocional SCRAPLING35 para obtener un 35% de descuento en proxies.
-    </td>
-  </tr>
 </table>
 
 <i><sub>¿Quieres mostrar tu anuncio aquí? Haz clic [aquí](https://github.com/sponsors/D4Vinci/sponsorships?tier_id=586646)</sub></i>
@@ -210,7 +188,6 @@ MySpider().start()
 <a href="https://proxyempire.io/?ref=scrapling&utm_source=scrapling" target="_blank" title="Collect The Data Your Project Needs with the Best Residential Proxies"><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/ProxyEmpire.png"></a>
 <a href="https://www.webshare.io/?referral_code=48r2m2cd5uz1" target="_blank" title="The Most Reliable Proxy with Unparalleled Performance"><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/webshare.png"></a>
 <a href="https://proxiware.com/?ref=scrapling" target="_blank" title="Collect Any Data. At Any Scale."><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/proxiware.png"></a>
-<a href="https://talordata.com/?campaignid=ZOYRsA4bX9BwWyO5&utm_source=D4Vinci&utm_term=Scrapling" target="_blank" title="Google SERP API for LLM, AI Agents & Full-Stack SEO"><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/TalorData.jpg"></a>
 
 
 <!-- /sponsors -->
@@ -447,14 +424,14 @@ Scrapling no solo es potente, también es ultrarrápido. Los siguientes benchmar
 
 | # |    Biblioteca     | Tiempo (ms) | vs Scrapling |
 |---|:-----------------:|:-----------:|:------------:|
-| 1 |     Scrapling     |    2.02     |     1.0x     |
-| 2 |   Parsel/Scrapy   |    2.04     |     1.01     |
-| 3 |     Raw Lxml      |    2.54     |    1.257     |
-| 4 |      PyQuery      |    24.17    |     ~12x     |
-| 5 |    Selectolax     |    82.63    |     ~41x     |
-| 6 |  MechanicalSoup   |   1549.71   |   ~767.1x    |
-| 7 |   BS4 with Lxml   |   1584.31   |   ~784.3x    |
-| 8 | BS4 with html5lib |   3391.91   |   ~1679.1x   |
+| 1 |     Scrapling     |    1.98     |     1.0x     |
+| 2 |   Parsel/Scrapy   |    1.99     |     1.005    |
+| 3 |     Raw Lxml      |    2.48     |    1.253     |
+| 4 |      PyQuery      |    23.15    |     ~12x     |
+| 5 |    Selectolax     |    196.09   |     ~99x     |
+| 6 |  MechanicalSoup   |   1531.24   |   ~773.4x    |
+| 7 |   BS4 with Lxml   |   1535.19   |   ~775.3x    |
+| 8 | BS4 with html5lib |   3388.16   |   ~1711.2x   |
 
 
 ### Rendimiento de Similitud de Elementos y Búsqueda de Texto
@@ -463,8 +440,8 @@ Las capacidades de búsqueda adaptativa de elementos de Scrapling superan signif
 
 | Biblioteca  | Tiempo (ms) | vs Scrapling |
 |-------------|:-----------:|:------------:|
-| Scrapling   |    2.39     |     1.0x     |
-| AutoScraper |    12.45    |    5.209x    |
+| Scrapling   |    2.29     |     1.0x     |
+| AutoScraper |    12.46    |    5.441x    |
 
 
 > Todos los benchmarks representan promedios de más de 100 ejecuciones. Ver [benchmarks.py](https://github.com/D4Vinci/Scrapling/blob/main/benchmarks.py) para la metodología.

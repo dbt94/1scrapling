@@ -85,6 +85,16 @@ MySpider().start()
 <table>
   <tr>
     <td width="200">
+      <a href="https://go.nodemaven.com/scraplingjuly" target="_blank" title="Proxies with the Highest IP Scores">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/NodeMaven.jpg" width="240" height="100">
+      </a>
+    </td>
+    <td>
+    <a href="https://go.nodemaven.com/scraplingjuly" target="_blank">NodeMaven</a> - 시장에서 가장 높은 품질의 IP를 제공하는 신뢰할 수 있는 프록시 제공업체입니다. 프로모 코드 SCRAPLING35를 사용하면 프록시 35% 할인을 받을 수 있습니다.
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
       <a href="https://proxidize.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=scrapling&utm_content=d4vinci" target="_blank" title="Clean Proxies with No Nonsense.">
         <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/proxidize.png">
       </a>
@@ -94,11 +104,11 @@ MySpider().start()
   </tr>
   <tr>
     <td width="200">
-      <a href="https://coldproxy.com/" target="_blank" title="Residential, IPv6 & Datacenter Proxies for Web Scraping">
+      <a href="https://coldproxy.com/?utm_source=scrapling&utm_medium=github&utm_campaign=coldproxy&utm_content=platinum_sponsor" target="_blank" title="Residential, IPv6 & Datacenter Proxies for Web Scraping">
         <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/coldproxy.png">
       </a>
     </td>
-    <td> <a href="https://coldproxy.com/" target="_blank"><b>ColdProxy</b></a>는 안정적인 웹 스크래핑, 공개 데이터 수집, 195개 이상의 국가에서의 지역 타겟팅 테스트를 위한 주거용 및 데이터센터 프록시를 제공합니다.
+    <td> <a href="https://coldproxy.com/?utm_source=scrapling&utm_medium=github&utm_campaign=coldproxy&utm_content=platinum_sponsor" target="_blank"><b>ColdProxy</b></a>는 안정적인 웹 스크래핑, 공개 데이터 수집, 195개 이상의 국가에서의 지역 타겟팅 테스트를 위한 주거용 및 데이터센터 프록시를 제공합니다.
     </td>
   </tr>
   <tr>
@@ -110,18 +120,6 @@ MySpider().start()
     <td> Scrapling은 Cloudflare Turnstile을 처리합니다. 엔터프라이즈급 보호가 필요하다면, <a href="https://hypersolutions.co?utm_source=github&utm_medium=readme&utm_campaign=scrapling">
         <b>Hyper Solutions</b>
       </a>가 <b>Akamai</b>, <b>DataDome</b>, <b>Kasada</b>, <b>Incapsula</b>용 유효한 안티봇 토큰을 생성하는 API 엔드포인트를 제공합니다. 간단한 API 호출만으로, 브라우저 자동화가 필요 없습니다. </td>
-  </tr>
-  <tr>
-    <td width="200">
-      <a href="https://birdproxies.com/t/scrapling" target="_blank" title="At Bird Proxies, we eliminate your pains such as banned IPs, geo restriction, and high costs so you can focus on your work.">
-        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/BirdProxies.jpg">
-      </a>
-    </td>
-    <td>프록시는 복잡하거나 비쌀 이유가 없다는 생각으로 <a href="https://birdproxies.com/t/scrapling">
-        <b>BirdProxies</b>
-      </a>를 만들었습니다. <br /> 195개 이상 지역의 빠른 레지덴셜 및 ISP 프록시, 합리적인 가격, 실질적인 지원. <br />
-      <b>랜딩 페이지에서 FlappyBird 게임을 플레이하고 무료 데이터를 받으세요!</b>
-    </td>
   </tr>
   <tr>
     <td width="200">
@@ -177,26 +175,6 @@ MySpider().start()
     <a href="https://www.swiftproxy.net/?ref=D4Vinci" target="_blank">Swiftproxy</a>는 195개국 이상에서 8천만 개 이상의 IP를 갖춘 확장 가능한 주거용 프록시를 제공하며, 빠르고 안정적인 연결, 자동 회전, 강력한 차단 방지 성능을 제공합니다. 무료 체험판 이용 가능.
     </td>
   </tr>
-  <tr>
-    <td width="200">
-      <a href="https://9proxy.com/pricing?tab=traffic&utm_source=Github&utm_campaign=D4vinci" target="_blank" title="Top-Tier Residential Proxy Solution for the Highest Success Rate">
-        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/9proxy.jpg">
-      </a>
-    </td>
-    <td>
-    <a href="https://9proxy.com/pricing?tab=traffic&utm_source=Github&utm_campaign=D4vinci" target="_blank">9Proxy</a>는 IP당 $0.018 또는 GB당 $0.68의 저렴한 가격부터 시작하는 주거용 프록시를 제공합니다. 90개국 이상에서 2천만 개 이상의 IP를 보유하고 있으며, 고정 또는 회전 세션을 데스크톱이나 모바일 앱에서 관리할 수 있습니다.
-    </td>
-  </tr>
-  <tr>
-    <td width="200">
-      <a href="https://go.nodemaven.com/scraplingjune" target="_blank" title="Proxies with the Highest IP Scores">
-        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/NodeMaven.svg" width="240" height="100">
-      </a>
-    </td>
-    <td>
-    <a href="https://go.nodemaven.com/scraplingjune" target="_blank">NodeMaven</a> - 시장에서 가장 높은 품질의 IP를 제공하는 신뢰할 수 있는 프록시 제공업체입니다. 프로모 코드 SCRAPLING35를 사용하면 프록시 35% 할인을 받을 수 있습니다.
-    </td>
-  </tr>
 </table>
 
 <i><sub>여기에 광고를 게재하고 싶으신가요? [여기](https://github.com/sponsors/D4Vinci/sponsorships?tier_id=586646)를 클릭하세요</sub></i>
@@ -210,7 +188,6 @@ MySpider().start()
 <a href="https://proxyempire.io/?ref=scrapling&utm_source=scrapling" target="_blank" title="Collect The Data Your Project Needs with the Best Residential Proxies"><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/ProxyEmpire.png"></a>
 <a href="https://www.webshare.io/?referral_code=48r2m2cd5uz1" target="_blank" title="The Most Reliable Proxy with Unparalleled Performance"><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/webshare.png"></a>
 <a href="https://proxiware.com/?ref=scrapling" target="_blank" title="Collect Any Data. At Any Scale."><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/proxiware.png"></a>
-<a href="https://talordata.com/?campaignid=ZOYRsA4bX9BwWyO5&utm_source=D4Vinci&utm_term=Scrapling" target="_blank" title="Google SERP API for LLM, AI Agents & Full-Stack SEO"><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/TalorData.jpg"></a>
 
 
 <!-- /sponsors -->
@@ -447,14 +424,14 @@ Scrapling은 강력할 뿐만 아니라 초고속입니다. 아래 벤치마크�
 
 | # |      Library      | Time (ms) | vs Scrapling |
 |---|:-----------------:|:---------:|:------------:|
-| 1 |     Scrapling     |   2.02    |     1.0x     |
-| 2 |   Parsel/Scrapy   |   2.04    |     1.01     |
-| 3 |     Raw Lxml      |   2.54    |    1.257     |
-| 4 |      PyQuery      |   24.17   |     ~12x     |
-| 5 |    Selectolax     |   82.63   |     ~41x     |
-| 6 |  MechanicalSoup   |  1549.71  |   ~767.1x    |
-| 7 |   BS4 with Lxml   |  1584.31  |   ~784.3x    |
-| 8 | BS4 with html5lib |  3391.91  |   ~1679.1x   |
+| 1 |     Scrapling     |   1.98    |     1.0x     |
+| 2 |   Parsel/Scrapy   |   1.99    |    1.005     |
+| 3 |     Raw Lxml      |   2.48    |    1.253     |
+| 4 |      PyQuery      |   23.15   |     ~12x     |
+| 5 |    Selectolax     |  196.09   |     ~99x     |
+| 6 |  MechanicalSoup   |  1531.24  |   ~773.4x    |
+| 7 |   BS4 with Lxml   |  1535.19  |   ~775.3x    |
+| 8 | BS4 with html5lib |  3388.16  |   ~1711.2x   |
 
 
 ### 요소 유사도 & 텍스트 검색 성능
@@ -463,8 +440,8 @@ Scrapling의 적응형 요소 찾기 기능은 대안들을 크게 앞섭니다:
 
 | Library     | Time (ms) | vs Scrapling |
 |-------------|:---------:|:------------:|
-| Scrapling   |   2.39    |     1.0x     |
-| AutoScraper |   12.45   |    5.209x    |
+| Scrapling   |   2.29    |     1.0x     |
+| AutoScraper |   12.46   |    5.441x    |
 
 
 > 모든 벤치마크는 100회 이상 실행의 평균입니다. 측정 방법은 [benchmarks.py](https://github.com/D4Vinci/Scrapling/blob/main/benchmarks.py)를 참조하세요.
